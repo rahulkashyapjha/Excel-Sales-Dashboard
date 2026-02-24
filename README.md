@@ -1,4 +1,3 @@
-# Excel-Sales-Dashboard
 # VIFAO Company Performance Dashboard (Excel Project)
 
 ## Project Overview
@@ -48,10 +47,10 @@ The dashboard helps to quickly understand business insights using charts, KPIs, 
 * Business Insights
 
 ## Project File
-
 Excel Dashboard File: `SALESPROJECT.xlsx`
 
-## Author
+##Download the Excel file to use interactive filter and slicers.
 
+## Author
 Rahul Kumar
 Aspiring Data Analyst
