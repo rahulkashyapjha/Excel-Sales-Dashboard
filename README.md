@@ -49,7 +49,7 @@ The dashboard helps to quickly understand business insights using charts, KPIs, 
 ## Project File
 Excel Dashboard File: `SALESPROJECT.xlsx`
 
-##Download the Excel file to use interactive filter and slicers.
+## Download the Excel file to use interactive filter and slicers.
 
 ## Author
 Rahul Kumar
